@@ -1,7 +1,7 @@
 # Hello 🖐 I’m Mike
 ## A software engineer who has the knowledge in biology
 ### 🏛 Graduate from National Central University
-***💞Coding Language：Python、HTML、CSS、JavaScript***
+#### 💞Coding Language：`Python` `SQL` `HTML` `CSS` `JavaScript`
 
 **全速前進 Go Go!!**
 
