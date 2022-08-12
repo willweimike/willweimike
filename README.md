@@ -1,5 +1,5 @@
 # Hello 🖐 I’m Mike
-## A software engineer who has the knowledge in biology
+## An intern who has the knowledge in biology
 ### 🏛 Graduate from National Central University
 #### 💞Coding Language：`Python` `SQL` `HTML` `CSS` `JavaScript`
 
