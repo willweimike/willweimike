@@ -1,7 +1,7 @@
 # Hello 🖐 I’m Mike
 ## An intern who has the knowledge in biology
 ### 🏛 Graduate from National Central University
-#### 💞Coding Language：`Python` `SQL` `HTML` `CSS` `JavaScript`
+#### 💞Coding Language：`Python` `SQL` `PyTorch` `Flask`
 
 **全速前進 Go Go!!**
 
