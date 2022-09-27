@@ -2,7 +2,7 @@
 #### 🏛 Graduate from National Central University
 ### Coding Language：`Python` `SQL` 
 
-### Familiar with: `PyTorch` `Flask`
+### Familiar with: `PyTorch` `OpenCV` `Flask`
 
 **全速前進 Go Go!!**
 
