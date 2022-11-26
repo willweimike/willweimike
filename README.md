@@ -1,8 +1,8 @@
 # Hello 🖐 I’m Mike
-#### 🏛 Graduate from National Central University
-### Coding Language：`Python` `SQL` 
+#### 💻 Backend Server Engineer 💻
+#### 🏛 Graduate from National Central University 🏛
+### Coding Language：`Python` `PHP` `SQL` 
 
-### Familiar with: `PyTorch` `OpenCV` `Flask`
 
 **全速前進 Go Go!!**
 
