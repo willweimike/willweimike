@@ -1,10 +1,7 @@
-# Hello 🖐 I’m Mike
-## 💻 Backend Server Engineer 💻
-#### 🏛 Graduate from National Central University 🏛
-### Coding Language：`Python` `PHP` `SQL` 
+# Hello 🖐
+## A PHP Laravel Lover and also a Vue JS Lover 
+## Coding in both backend (`PHP`, `SQL`, `Python`) and frontend (`JavaScript`) sides
 
-
-**全速前進 Go Go!!**
 
 **📮 Contact me with email [mike20220101@gmail.com](mike20220101@gmail.com)📮**
 <!---
