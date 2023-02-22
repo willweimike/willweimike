@@ -1,7 +1,6 @@
-# Hello 🖐
-## A PHP Laravel Lover and also a Vue JS Lover 
-## Coding in both backend (`PHP`, `SQL`, `Python`) and frontend (`JavaScript`) sides
-
+# Coding in `PHP`  `SQL`  `JavaScript`  `Python`
+# Developing on 3 platforms: MacOS(zsh), Ubuntu(bash), Windows(cmd)
+# Also a PHP Laravel and Vue JS lover
 
 **📮 Contact me with email [mike20220101@gmail.com](mike20220101@gmail.com)📮**
 <!---
