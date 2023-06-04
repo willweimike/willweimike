@@ -1,6 +1,5 @@
-# Coding in `PHP`  `SQL`  `JavaScript`  `Python`
-# Developing on 3 platforms: MacOS(zsh), Ubuntu(bash), Windows(cmd)
-# Also a PHP Laravel and Vue JS lover
+# Coding in `JavaScript`  `Python`
+# Developing on Linux and Unix
 
 **📮 Contact me with email [mike20220101@gmail.com](mike20220101@gmail.com)📮**
 <!---
