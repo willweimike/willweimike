@@ -1,5 +1,6 @@
-# Coding in `JavaScript`  `Python`
-# Developing on Linux and Unix
+# Coding in `JavaScript`(`VueJS`/`NodeJS`/`ExpressJS)` and `Python`
+
+# Develop on Linux and Unix
 
 **📮 Contact me with email [mike20220101@gmail.com](mike20220101@gmail.com)📮**
 <!---
