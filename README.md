@@ -1,4 +1,4 @@
-# Coding in `JavaScript`(`VueJS`/`NodeJS`)  `Python` and `C++`
+# Coding in `JavaScript`, `Python` and `C++`
 
 # Develop on Linux and Unix
 
