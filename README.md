@@ -1,4 +1,4 @@
-# Coding in `JavaScript`, `Python` and `C++`
+# Coding in `JavaScript`, `Python` and `Java`
 
 # Develop on Linux and Unix
 
