@@ -1,6 +1,4 @@
-# `Java`, `Python` and `JavaScript` lover
-
-# Develop on Linux and Unix
+# Develop on Linux, Unix, and Windows
 
 **📮 Contact me with email [mike20220101@gmail.com](mike20220101@gmail.com)📮**
 <!---
